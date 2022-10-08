@@ -1,6 +1,7 @@
 # water-app
 
 🔸 Simple app for calculate how much drink water.. <br>
+🔸 Click and see live demo... [Here](https://hkankyilmaz.github.io/water-app/).
 
 ## 🚀 App Features <br>
 
